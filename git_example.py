@@ -7,3 +7,5 @@ print(a)
 b = np.array([4,5,6])
 
 print(b)
+
+print("something new 1")
