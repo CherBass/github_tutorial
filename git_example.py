@@ -1,6 +1,6 @@
 import numpy as np
 
-a = np.array([9])
+a = np.array([10])
 
 print(a)
 
